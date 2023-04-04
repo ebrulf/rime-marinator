@@ -7,7 +7,7 @@ Poniżej przedstawiam plan działania:
 * * Wskazanie jednego folderu
 * * albo pozwolenie na tworzenie plików tekstowych
 * * Żadne wyszukiwarki ani API, darujemy sobie
-* Język: Python, biblioteka NLTK czy jak jej tam + biblioteka do GUI (Tkinter) + coś do rozbicia tekstu do IPA
+* Język: Python, biblioteka NLTK czy jak jej tam (plus spaCy i Morfeusz) + biblioteka do GUI (Tkinter) + coś do rozbicia tekstu do IPA
 * Wykrywanie rymów. Opcja:
 * * Podzbiór zbioru rymów
 * * Podobieństwo wyrazów (litery, głoski)
