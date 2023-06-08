@@ -1,4 +1,5 @@
 from tkinter import *
+import rime_marinator_app as rm
 
 class Rime_Marinator(object):
 	def __init__(self):	
